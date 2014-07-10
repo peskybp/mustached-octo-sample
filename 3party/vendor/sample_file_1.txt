@@ -1,5 +1,7 @@
 first sample file
 
 Minimal content
+Adding more content
+to ensure that everything get merged correctly
 
-much wow
+much merging
